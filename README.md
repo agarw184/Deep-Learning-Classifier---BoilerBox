@@ -1,4 +1,4 @@
-# Deep Learning sentiment Classifier build for BoilerBox 
+# Deep Learning Sentiment Classifier build for BoilerBox 
 
 A new Flutter application.
 
